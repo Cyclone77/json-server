@@ -1,0 +1,20 @@
+{
+    "name": "json-server",
+    "version": "1.0.0",
+    "description": "``` git\r npm install -g json-server\r ```",
+    "main": "index.js",
+    "scripts": {
+        "server": "json-server --watch db.json",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Cyclone77/json-server.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Cyclone77/json-server/issues"
+    },
+    "homepage": "https://github.com/Cyclone77/json-server#readme"
+}
