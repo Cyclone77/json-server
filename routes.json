@@ -1,4 +1,5 @@
 {
     "/news/:id/show": "/news/:id",
-    "/topics/:id/show": "/news/:id"
+    "/topics/:id/show": "/news/:id",
+    "/tblpage/:size/:index": "/tblpage:size/:index"
 }
